@@ -13,10 +13,10 @@ module.exports = {
   // Lavalink Configuration
   lavalink: {
     nodes: [{
-      name: 'main',
-      url: 'lava-v4.ajieblogs.eu.org:80',
-      auth: 'https://dsc.gg/ajidevserver',
-      secure: false,
+      name: 'oddcoder-node', // Identifier for the new node
+      url: 'lavalink.oddcoder.xyz:443', // New Host and Port
+      auth: 'oddcoder', // New Password
+      secure: true, // Set to true for a secure WebSocket connection (WSS)
     }],
     defaultSearchEngine: 'youtube_music'
   },
