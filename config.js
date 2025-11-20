@@ -13,10 +13,10 @@ module.exports = {
   // Lavalink Configuration
   lavalink: {
     nodes: [{
-      name: 'oddcoder-node', // Identifier for the new node
-      url: 'lavalink.oddcoder.xyz:443', // New Host and Port
-      auth: 'oddcoder', // New Password
-      secure: true, // Set to true for a secure WebSocket connection (WSS)
+      name: 'Sakura', // Node Name
+      url: 'lavalink.aiko-project.xyz:2333', // New Host and Port
+      auth: 'Rikka', // New Password
+      secure: false, // Set to false
     }],
     defaultSearchEngine: 'youtube_music'
   },
