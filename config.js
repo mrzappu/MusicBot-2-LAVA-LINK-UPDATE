@@ -13,10 +13,10 @@ module.exports = {
   // Lavalink Configuration
   lavalink: {
     nodes: [{
-      name: 'Sakura', // Node Name
-      url: 'lavalink.aiko-project.xyz:2333', // New Host and Port
-      auth: 'Rikka', // New Password
-      secure: false, // Set to false
+      name: 'Harmonix-NODE2', // Updated Node Name
+      url: 'zac.hidencloud.com:24627', // New Host and Port
+      auth: 'Kaun.Yuvraj', // New Password
+      secure: false, // Set to false for this connection
     }],
     defaultSearchEngine: 'youtube_music'
   },
